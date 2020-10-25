@@ -38,7 +38,7 @@
   "maxlength": "",
   "name": "",
   "onchange": "",
-  "onclick": "",
+  "onclick": "txtNames.onclick()",
   "oncopy": "",
   "oncut": "",
   "onfocusin": "",

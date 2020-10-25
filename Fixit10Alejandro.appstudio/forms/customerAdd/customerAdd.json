@@ -61,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "customerAdd.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "initial",
